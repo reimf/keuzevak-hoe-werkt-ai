@@ -17,14 +17,27 @@ Weeks
 4. Optical Character Recognition with ANN
    1. MNIST digits
    2. Preprocessing the data, postprocessing the prediction
-   3. Training set, test set, validation set, local minima
+   3. Training set, test set, validation set, local minima, generalization
 5. Language model?
 6. The truth is in the data
-   1. Different models lead to the same results
-   2. Is the data representative of real-world situations? Valid? Legal? Non-discriminatory?
+   1. Different models (Artificial Neural Networks, Recurrent Neural Networks, Support Vector Machines, etc)
+      1. It all depends on the data
+      2. Lots of fiddling (size, architecture, choice of training algorithm, etc)
+      3. No explanation for a prediction
+   2. Different models lead to the same results
+   3. Is the data representative of real-world situations?
+   4. What is the quality of the data?
+      1. Bias and Discrimination
+      2. Transparency, Accountability
+      3. Creativity and Ownership
+      4. Social Manipulation and Misinformation
+      5. Privacy, Security, and Surveillance
 7. The current state of AI
-   1. Applied in many niches
+   1. Applied in real-world situations in many niches (give examples)
    2. General AI: generate text (ChatGPT), images (DALL-E), music (Udio), speech-to-text, text-to-speech, etc
+   3. AI in science fiction
+   4. Can AI ever be truly self aware?
+
 
 Further material:
 - https://dev.to/trekhleb/interactive-machine-learning-experiments-3ga7
