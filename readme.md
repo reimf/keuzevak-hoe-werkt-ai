@@ -1,6 +1,11 @@
-# Readme
+Readme
+======
 
-Weeks
+!["I want AI to do my laundry and dishes so that I can do art and writing, not for AI to do my art and writing so that I can do my laundry and dishes". Author and videogame enthusiast Joanna Maciejewska nails it (although bathroom cleaning goes ahead of laundry and dishes)](I_want_AI_to_do_my_laundry_and_dishes.webp)
+
+Contents of the course
+----------------------
+
 1. General introduction
    1. Large Language Models like ChatGPT are the talk of the town
    2. Algorithms vs artificial intelligence = instructions vs learning
@@ -21,12 +26,11 @@ Weeks
 5. Language model?
 6. The truth is in the data
    1. Different models (Artificial Neural Networks, Recurrent Neural Networks, Support Vector Machines, etc)
-      1. It all depends on the data
-      2. Lots of fiddling (size, architecture, choice of training algorithm, etc)
-      3. No explanation for a prediction
-   2. Different models lead to the same results
-   3. Is the data representative of real-world situations?
-   4. What is the quality of the data?
+      1. Lots of fiddling (size, architecture, choice of training algorithm, etc)
+      2. No explanation for a prediction
+      3. Different models lead to the same results
+      4. It all depends on the data
+   2. The quality of the data
       1. Bias and Discrimination
       2. Transparency, Accountability
       3. Creativity and Ownership
@@ -39,7 +43,10 @@ Weeks
    4. Can AI ever be truly self aware?
 
 
-Further material:
+Further material
+----------------
+
 - https://dev.to/trekhleb/interactive-machine-learning-experiments-3ga7
 - https://www.kaggle.com/code/prashant111/comprehensive-guide-to-ann-with-keras
 - https://www.geeksforgeeks.org/implementation-of-perceptron-algorithm-for-xor-logic-gate-with-2-bit-binary-input/
+- https://thewalrus.ca/ai-hype/
