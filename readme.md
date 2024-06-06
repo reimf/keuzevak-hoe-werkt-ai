@@ -1,7 +1,7 @@
 Readme
 ======
 
-!["I want AI to do my laundry and dishes so that I can do art and writing, not for AI to do my art and writing so that I can do my laundry and dishes". Author and videogame enthusiast Joanna Maciejewska nails it (although bathroom cleaning goes ahead of laundry and dishes)](I_want_AI_to_do_my_laundry_and_dishes.webp)
+!["I want AI to do my laundry and dishes so that I can do art and writing, not for AI to do my art and writing so that I can do my laundry and dishes". Author and videogame enthusiast Joanna Maciejewska nails it (although bathroom cleaning goes ahead of laundry and dishes)](images/I_want_AI_to_do_my_laundry_and_dishes.webp)
 
 Contents of the course
 ----------------------
@@ -9,12 +9,12 @@ Contents of the course
 1. General introduction
    1. Large Language Models like ChatGPT are the talk of the town
    2. Algorithms vs artificial intelligence = instructions vs learning
-2. [Neuron & Perceptron](https://colab.research.google.com/github/reimf/keuzevak-hoe-werkt-ai/blob/main/perceptron.ipynb)
+2. [Neuron and Perceptron](https://colab.research.google.com/github/reimf/keuzevak-hoe-werkt-ai/blob/main/week-2-neuron-and-perceptron.ipynb)
    1. Link between brains (neuron) and AI (perceptron) - McCulloch & Pitts (1943)
    2. Supervised learning, lineair classifier, delta rule
    3. Show OR, AND & XOR (doesn't work) - Minsky & Papert (1969)
    4. Not much till 1980
-3. Multilayered perceptrons
+3. [Multilayered perceptrons](https://colab.research.google.com/github/reimf/keuzevak-hoe-werkt-ai/blob/main/week-3-multilayered-perceptrons.ipynb)
    1. Show XOR with preset weights
    2. No training algorithm for multilayered perceptrons with the heaviside step-function exists
    3. Sigmoid, backpropagation, gradient descent
