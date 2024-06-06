@@ -24,6 +24,7 @@ Contents of the course
    2. Preprocessing the data, postprocessing the prediction
    3. Training set, test set, validation set, local minima, generalization
 5. Language model?
+   1. Style of Shakespeare?
 6. The truth is in the data
    1. Different models (Artificial Neural Networks, Recurrent Neural Networks, Support Vector Machines, etc)
       1. Lots of fiddling (size, architecture, choice of training algorithm, etc)
@@ -46,6 +47,7 @@ Contents of the course
 Further material
 ----------------
 
+- https://en.wikipedia.org/wiki/Perceptron
 - https://dev.to/trekhleb/interactive-machine-learning-experiments-3ga7
 - https://www.kaggle.com/code/prashant111/comprehensive-guide-to-ann-with-keras
 - https://www.geeksforgeeks.org/implementation-of-perceptron-algorithm-for-xor-logic-gate-with-2-bit-binary-input/
