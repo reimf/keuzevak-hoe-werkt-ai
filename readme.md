@@ -9,16 +9,22 @@ Contents of the course
 1. General introduction
    1. Large Language Models like ChatGPT are the talk of the town
    2. Algorithms vs artificial intelligence = instructions vs learning
-2. [Neuron and Perceptron](https://colab.research.google.com/github/reimf/keuzevak-hoe-werkt-ai/blob/main/week-2-neuron-and-perceptron.ipynb)
+2. Neuron and Perceptron
    1. Link between brains (neuron) and AI (perceptron) - McCulloch & Pitts (1943)
    2. Supervised learning, lineair classifier, delta rule
    3. Show OR, AND & XOR (doesn't work) - Minsky & Papert (1969)
+     [Jupyter Notebook](week-2-single-perceptron-or.ipynb)
+     [Google Colab](https://colab.research.google.com/github/reimf/keuzevak-hoe-werkt-ai/blob/main/week-2-single-perceptron-or.ipynb)
    4. Not much till 1980
-3. [Multilayered perceptrons](https://colab.research.google.com/github/reimf/keuzevak-hoe-werkt-ai/blob/main/week-3-multilayered-perceptrons.ipynb)
+3. Multilayered perceptrons
    1. Show XOR with preset weights
+      [Jupyter Notebook](week-3a-preset-multilayered-perceptron-xor.ipynb)
+      [Google Colab](https://colab.research.google.com/github/reimf/keuzevak-hoe-werkt-ai/blob/main/week-3a-preset-multilayered-perceptron-xor.ipynb)
    2. No training algorithm for multilayered perceptrons with the heaviside step-function exists
    3. Sigmoid, backpropagation, gradient descent
    4. XOR with MLP
+      [Jupyter Notebook](week-3b-trainable-multilayered-perceptron-xor.ipynb)
+      [Google Colab](https://colab.research.google.com/github/reimf/keuzevak-hoe-werkt-ai/blob/main/week-3b-trainable-multilayered-perceptron-xor.ipynb)
 4. Optical Character Recognition with ANN
    1. MNIST digits
    2. Preprocessing the data, postprocessing the prediction
